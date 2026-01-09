@@ -1,1 +1,2 @@
 different consecutives characters (codechef) 
+Count the Number of Consistent strings (leetcode) 
