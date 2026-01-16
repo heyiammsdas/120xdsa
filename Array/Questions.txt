@@ -1,1 +1,4 @@
 1.Find Pivot Index (leetcode 724)
+2.Largest Perimeter Triangle (leetcode 976) 
+3.Maximum Average Subarray I (leetcode 643) 
+4.Grumpy Bookstore owner (leetcode 1052) 
