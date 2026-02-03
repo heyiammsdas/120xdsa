@@ -3,3 +3,4 @@
 3.Maximum Average Subarray I (leetcode 643) 
 4.Grumpy Bookstore owner (leetcode 1052) 
 5.Find the town judge (leetcode 997)
+6.Pet store (code chef)
