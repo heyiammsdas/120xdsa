@@ -5,3 +5,4 @@
 5.Find the town judge (leetcode 997)
 6.Pet store (code chef)
 7.The Great Run (code chef)
+8.Transformed Array (leetcode 3379)
